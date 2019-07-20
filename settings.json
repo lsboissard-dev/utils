@@ -1,0 +1,22 @@
+{
+    "dart.flutterSdkPath": "/Users/xxx/Dev/flutter",
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": true,
+    "workbench.colorTheme": "Material Theme",
+    "editor.accessibilitySupport": "off",
+    "workbench.iconTheme": "vscode-icons",
+    "debug.console.fontFamily": "Operator Mono",
+    "debug.console.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "Operator Mono",
+    "dart.warnWhenEditingFilesOutsideWorkspace": false,
+    "editor.tokenColorCustomizations": {
+        "[Material Theme]": {
+            "functions": {
+                "fontStyle": "bold"
+            }
+        }
+    },
+    "git.confirmSync": false
+}
